@@ -27,3 +27,5 @@ winget uninstall --id Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe
 winget uninstall --id Microsoft.YourPhone_8wekyb3d8bbwe
 winget uninstall --id Microsoft.ZuneMusic_8wekyb3d8bbwe
 winget uninstall --id microsoft.windowscommunicationsapps_8wekyb3d8bbwe
+winget uninstall --id Microsoft.OneDriveSync_8wekyb3d8bbwe
+winget uninstall --id Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe
