@@ -1,5 +1,6 @@
+winget uninstall --id Microsoft.OneDrive
 winget uninstall --id Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe
-winget uninstall --id "Microsoft Edge Update"
+winget uninstall --id Microsoft.Edge
 winget uninstall --id Microsoft.BingNews_8wekyb3d8bbwe
 winget uninstall --id Microsoft.EdgeWebView2Runtime
 winget uninstall --id Microsoft.549981C3F5F10_8wekyb3d8bbwe
