@@ -30,4 +30,8 @@ winget uninstall --id Microsoft.ZuneMusic_8wekyb3d8bbwe
 winget uninstall --id microsoft.windowscommunicationsapps_8wekyb3d8bbwe
 winget uninstall --id Microsoft.OneDriveSync_8wekyb3d8bbwe
 winget uninstall --id Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe
+winget uninstall --id Disney.37853FC22B2CE_6rarf9sa4v8jt
+winget uninstall --id SpotifyAB.SpotifyMusic_zpdnekdrzrea0
+winget uninstall --id Microsoft.BingWeather_8wekyb3d8bbwe
+winget uninstall --id Microsoft.MixedReality.Portal_8wekyb3d8bbwe
 
